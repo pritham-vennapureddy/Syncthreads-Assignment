@@ -1,0 +1,12 @@
+.background-container{
+    background-color:rgb(0, 0, 33);
+    width: 100%;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+
+}
+.dashboardheading{
+    color: white;
+    margin: 0px;
+}

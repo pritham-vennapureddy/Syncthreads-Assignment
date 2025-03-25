@@ -1,0 +1,38 @@
+.glass-effect {
+    background: white; /* White with 20% transparency */
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.318); /* Soft shadow */
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    margin:10px;
+   display: flex;
+   width: 400px;
+  }
+  .linkitem{
+    text-decoration: none;
+    color: black;
+  }
+  .paradescription{
+    width:280px;
+    color: rgb(144, 147, 154);
+  }
+  .cityImage{
+    height: 90px;
+    width: 90px;
+  }
+  .flex-container{
+    display: flex;
+  }
+  .cityTitle{
+    font-size: 15px;
+  }
+  .populationitem{
+    font-size: 12px;
+    margin: 0px;
+    color: rgb(73, 78, 83);
+  }
+  .location{
+    font-weight: bold;
+    font-size: 12px;
+    margin: 0px;
+  }
